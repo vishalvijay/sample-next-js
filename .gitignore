@@ -33,6 +33,14 @@ yarn-error.log*
 # vercel
 .vercel
 
+#Editor
+.idea
+public/service-worker.js*
+public/workbox-*
+
+# Local Netlify folder
+.netlify
+
 # Local Netlify folder
 .netlify
 netlify
